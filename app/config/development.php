@@ -12,8 +12,8 @@ return [
 		'driver' => 'mysql',
 		'host' => 'localhost',
 		'name' => 'site',
-		'username' => 'root',
-		'password' => 'QAZwsx12',
+		'username' => 'USERNAME',
+		'password' => 'PASSWORD',
 		'charset' => 'utf8',
 		'collation' => 'utf8_unicode_ci',
 		'prefix' => ''
@@ -28,8 +28,8 @@ return [
 		'smtp_auth' => true,
 		'smtp_secure' => 'tls',
 		'host' => 'smtp.gmail.com',
-		'username' => 'dummyaccSOA@gmail.com',
-		'password' => 'registration',
+		'username' => 'EMAILID',
+		'password' => 'PASSWORD',
 		'port' => 587,
 		'html' => true
 	],
